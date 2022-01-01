@@ -1,2 +1,2 @@
-# Journey-1
-Exploring the platform
+# Journey-One
+Explore the platform
